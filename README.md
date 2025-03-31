@@ -3,7 +3,7 @@
 ## 📌 Project Overview  
 This project analyzes **Blinkit’s sales performance, customer satisfaction, and inventory distribution** using **Power BI**. Through **key performance indicators (KPIs)** and interactive visualizations, the goal is to identify actionable insights that optimize operations and drive data-driven decisions.
 
-![Sales Dashboard](images/sample.png)
+![Sales Dashboard](Blink_It/Images Used/Sample.png)
 
 ## 📊 Key Metrics & KPIs  
 - **Sales Performance**: Total sales, average sales, and number of items sold  
